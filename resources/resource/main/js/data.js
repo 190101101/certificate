@@ -287,6 +287,14 @@ const elements = [
 		date: '09.02.2024',
 		text: 'Python İle OOP: Hava Yolu, Oyun ve Banka Uygulamalarıyla Pratik Yapma',
 	},
+	{
+		title: `TypeScript с Нуля`,
+		description:'TypeScript',
+		url : 'UC-be8d55f4-1b1a-4f9c-95e4-71d434f46469',
+		course:'https://www.udemy.com/course/typescript-bootcamp/',
+		date: '09.02.2024',
+		text: 'TypeScript - Javascript уровня продакшн. Освойте TypeScript, изучая best design patterns',
+	},
 ]
 
 const certificate = document.querySelector('.certificate-content');
