@@ -300,6 +300,7 @@ const elements = [
 const certificate = document.querySelector('.certificate-content');
 
 elements.map((element, index) => {
+	index += 1;
 	certificate.innerHTML += 
 	`
 	<div class="col-lg-3 col-md-4 col-sm-6">
