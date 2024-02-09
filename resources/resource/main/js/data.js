@@ -299,6 +299,7 @@ const elements = [
 
 const certificate = document.querySelector('.certificate-content');
 
+console.log(elements);
 elements.map((element, index) => {
 	certificate.innerHTML += 
 	`
