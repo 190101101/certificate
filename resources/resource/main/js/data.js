@@ -293,7 +293,7 @@ const elements = [
 		url : 'UC-be8d55f4-1b1a-4f9c-95e4-71d434f46469',
 		course:'https://www.udemy.com/course/typescript-bootcamp/',
 		date: '09.02.2024',
-		text: 'TypeScript - Javascript уровня продакшн. Освойте TypeScript, изучая best design patterns',
+		text: 'TypeScript - Javascript уровня продакшн, Освойте TypeScript, изучая best design patterns',
 	},
 ]
 
