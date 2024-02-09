@@ -271,6 +271,22 @@ const elements = [
 		date: '03.02.2024',
 		text: 'Php websocket ile socket io kullanarak gerçek zamanlı ( real-time) anlık chat ( özel mesajlaşma) uygulaması yapıyoruz.'
 	},
+	{
+		title: `Python 3: A' dan Z' ye Programlama`,
+		description: 'Python',
+		url : 'UC-2dbc58ac-1901-4b09-8e9e-b97d9a05e00a',
+		course:'https://www.udemy.com/course/python3-ile-a-dan-z-ye-programlama/',
+		date: '09.02.2024',
+		text: 'Python 3 ile Programlamayı Sıfırdan İleri Düzeye Kadar Gerçek Projeler Yaratarak Öğrenin!',
+	},
+	{
+		title: `Python'da Nesne Yönelimli Programlama: Tam Kapsamlı Uygulama`,
+		description:'Python OOP',
+		url : 'UC-87889a20-5910-4d1e-873b-c96c30d987c7',
+		course:'https://www.udemy.com/course/komple-uygulamali-nesne-yonelimli-programlama-egitimi/',
+		date: '09.02.2024',
+		text: 'Python İle OOP: Hava Yolu, Oyun ve Banka Uygulamalarıyla Pratik Yapma',
+	},
 ]
 
 const certificate = document.querySelector('.certificate-content');
