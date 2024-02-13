@@ -295,6 +295,14 @@ const elements = [
 		date: '09.02.2024',
 		text: 'TypeScript - Javascript уровня продакшн, Освойте TypeScript, изучая best design patterns',
 	},
+	{
+		title: `Telegram. Пишем ботов на Node JS и Telegraf`,
+		description:'TypeScript',
+		url : 'UC-73c540ce-d993-4272-b66e-a1370966ea7a',
+		course:'https://www.udemy.com/course/telegram-bots-with-telegraf/',
+		date: '13.02.2024',
+		text: 'Пишем ботов для Telegram на Node JS c помощью фреймворка Telegraf, деплоим на Heroku и делаем правильную архитектуру',
+	},
 ]
 
 const certificate = document.querySelector('.certificate-content');
