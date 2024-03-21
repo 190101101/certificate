@@ -232,3 +232,9 @@ https://190101101.github.io/certificate/
 	<a href="https://www.ude.my/UC-73c540ce-d993-4272-b66e-a1370966ea7a">https://www.ude.my/UC-73c540ce-d993-4272-b66e-a1370966ea7a</a>
 	<a href="https://190101101.github.io/certificate/resources/files/pdf/UC-73c540ce-d993-4272-b66e-a1370966ea7a.pdf">UC-73c540ce-d993-4272-b66e-a1370966ea7a.pdf</a>
 </p>
+
+<p>
+	<img align="center" src="https://github.com/190101101/certificate/blob/main/resources/files/jpg/UC-ab7e814f-73b5-43f3-8074-c04ce2ea2ca7.jpg">
+	<a href="https://www.ude.my/UC-ab7e814f-73b5-43f3-8074-c04ce2ea2ca7">https://www.ude.my/UC-ab7e814f-73b5-43f3-8074-c04ce2ea2ca7</a>
+	<a href="https://190101101.github.io/certificate/resources/files/pdf/UC-ab7e814f-73b5-43f3-8074-c04ce2ea2ca7.pdf">UC-ab7e814f-73b5-43f3-8074-c04ce2ea2ca7.pdf</a>
+</p>
