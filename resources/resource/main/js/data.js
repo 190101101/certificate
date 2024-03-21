@@ -303,6 +303,14 @@ const elements = [
 		date: '13.02.2024',
 		text: 'Пишем ботов для Telegram на Node JS c помощью фреймворка Telegraf, деплоим на Heroku и делаем правильную архитектуру',
 	},
+	{
+		title: `Electron İle Cross-Platform Masaüstü Uygulama Geliştirelim`,
+		description:'Electron',
+		url : 'UC-ab7e814f-73b5-43f3-8074-c04ce2ea2ca7',
+		course:'https://www.udemy.com/course/electron-ile-cross-platform-masaustu-uygulama-gelistirelim/',
+		date: '21.03.2024',
+		text: 'Electron ile bütün platformlar için masaüstü uygulama geliştirme ve uygulama ile pekiştirme',
+	},
 ]
 
 const certificate = document.querySelector('.certificate-content');
